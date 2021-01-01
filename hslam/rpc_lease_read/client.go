@@ -45,7 +45,7 @@ type WrkClient struct {
 
 func (c *WrkClient) Call() (int64, int64, bool) {
 	A := "foo"
-	result, ok := c.Client.ReadIndexGet(A)
+	result, ok := c.Client.LeaseReadGet(A)
 	if ok {
 		return int64(len(A)), int64(len(result)), true
 	}

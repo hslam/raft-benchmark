@@ -1,7 +1,7 @@
 # raft-benchmark
 
 ### Benchmark
-The cluster has three nodes.
+Running on the three nodes cluster.
 ##### Write
 
 <img src="https://raw.githubusercontent.com/hslam/raft-benchmark/master/raft-write-qps.png" width = "400" height = "300" alt="write-qps" align=center><img src="https://raw.githubusercontent.com/hslam/raft-benchmark/master/raft-write-p99.png" width = "400" height = "300" alt="write-p99" align=center>
