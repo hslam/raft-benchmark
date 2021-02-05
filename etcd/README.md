@@ -18,34 +18,34 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	256
 	Total calls:	1000000
-	Total time:	36.22s
-	Requests per second:	27608.45
-	Fastest time for request:	0.38ms
-	Average time per request:	9.27ms
-	Slowest time for request:	74.68ms
+	Total time:	37.54s
+	Requests per second:	26635.33
+	Fastest time for request:	0.40ms
+	Average time per request:	9.61ms
+	Slowest time for request:	78.45ms
 
 Time:
-	0.1%	time for request:	0.86ms
-	1%	time for request:	1.65ms
-	5%	time for request:	2.77ms
-	10%	time for request:	3.56ms
-	25%	time for request:	5.14ms
-	50%	time for request:	7.41ms
-	75%	time for request:	11.60ms
-	90%	time for request:	17.75ms
-	95%	time for request:	22.04ms
-	99%	time for request:	30.42ms
-	99.9%	time for request:	42.64ms
+	0.1%	time for request:	0.89ms
+	1%	time for request:	1.63ms
+	5%	time for request:	2.69ms
+	10%	time for request:	3.42ms
+	25%	time for request:	4.99ms
+	50%	time for request:	7.44ms
+	75%	time for request:	12.15ms
+	90%	time for request:	19.08ms
+	95%	time for request:	23.89ms
+	99%	time for request:	33.54ms
+	99.9%	time for request:	44.26ms
 
 Request:
 	Total request body sizes:	3000000
 	Average body size per request:	3.00 Byte
-	Request rate per second:	82825.36 Byte/s (0.08 MByte/s)
+	Request rate per second:	79905.99 Byte/s (0.08 MByte/s)
 
 Response:
 	Total response body sizes:	3000000
 	Average body size per response:	3.00 Byte
-	Response rate per second:	82825.36 Byte/s (0.08 MByte/s)
+	Response rate per second:	79905.99 Byte/s (0.08 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -58,34 +58,34 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	512
 	Total calls:	1000000
-	Total time:	32.27s
-	Requests per second:	30987.85
-	Fastest time for request:	0.36ms
-	Average time per request:	16.51ms
-	Slowest time for request:	99.08ms
+	Total time:	33.12s
+	Requests per second:	30191.85
+	Fastest time for request:	0.42ms
+	Average time per request:	16.95ms
+	Slowest time for request:	106.38ms
 
 Time:
-	0.1%	time for request:	1.08ms
-	1%	time for request:	2.30ms
-	5%	time for request:	4.15ms
-	10%	time for request:	5.56ms
-	25%	time for request:	8.85ms
-	50%	time for request:	13.81ms
-	75%	time for request:	21.60ms
-	90%	time for request:	31.03ms
-	95%	time for request:	37.75ms
-	99%	time for request:	52.55ms
-	99.9%	time for request:	67.47ms
+	0.1%	time for request:	1.10ms
+	1%	time for request:	2.23ms
+	5%	time for request:	4.06ms
+	10%	time for request:	5.45ms
+	25%	time for request:	8.64ms
+	50%	time for request:	13.77ms
+	75%	time for request:	22.15ms
+	90%	time for request:	32.91ms
+	95%	time for request:	40.91ms
+	99%	time for request:	56.35ms
+	99.9%	time for request:	71.53ms
 
 Request:
 	Total request body sizes:	3000000
 	Average body size per request:	3.00 Byte
-	Request rate per second:	92963.56 Byte/s (0.09 MByte/s)
+	Request rate per second:	90575.54 Byte/s (0.09 MByte/s)
 
 Response:
 	Total response body sizes:	3000000
 	Average body size per response:	3.00 Byte
-	Response rate per second:	92963.56 Byte/s (0.09 MByte/s)
+	Response rate per second:	90575.54 Byte/s (0.09 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -98,34 +98,34 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	768
 	Total calls:	1000000
-	Total time:	30.75s
-	Requests per second:	32522.09
-	Fastest time for request:	0.38ms
-	Average time per request:	23.61ms
-	Slowest time for request:	120.09ms
+	Total time:	31.27s
+	Requests per second:	31983.85
+	Fastest time for request:	0.44ms
+	Average time per request:	24.00ms
+	Slowest time for request:	128.02ms
 
 Time:
-	0.1%	time for request:	1.40ms
-	1%	time for request:	3.15ms
-	5%	time for request:	5.94ms
-	10%	time for request:	8.08ms
-	25%	time for request:	13.04ms
-	50%	time for request:	20.24ms
-	75%	time for request:	30.88ms
-	90%	time for request:	43.47ms
-	95%	time for request:	52.60ms
-	99%	time for request:	71.34ms
-	99.9%	time for request:	93.02ms
+	0.1%	time for request:	1.63ms
+	1%	time for request:	3.37ms
+	5%	time for request:	6.02ms
+	10%	time for request:	8.14ms
+	25%	time for request:	13.00ms
+	50%	time for request:	20.62ms
+	75%	time for request:	31.57ms
+	90%	time for request:	44.63ms
+	95%	time for request:	53.37ms
+	99%	time for request:	71.80ms
+	99.9%	time for request:	90.86ms
 
 Request:
 	Total request body sizes:	3000000
 	Average body size per request:	3.00 Byte
-	Request rate per second:	97566.26 Byte/s (0.10 MByte/s)
+	Request rate per second:	95951.55 Byte/s (0.10 MByte/s)
 
 Response:
 	Total response body sizes:	3000000
 	Average body size per response:	3.00 Byte
-	Response rate per second:	97566.26 Byte/s (0.10 MByte/s)
+	Response rate per second:	95951.55 Byte/s (0.10 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -138,34 +138,34 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	1024
 	Total calls:	1000000
-	Total time:	30.03s
-	Requests per second:	33295.11
-	Fastest time for request:	0.40ms
-	Average time per request:	30.75ms
-	Slowest time for request:	164.04ms
+	Total time:	30.70s
+	Requests per second:	32570.79
+	Fastest time for request:	0.48ms
+	Average time per request:	31.42ms
+	Slowest time for request:	160.86ms
 
 Time:
-	0.1%	time for request:	1.97ms
-	1%	time for request:	4.38ms
-	5%	time for request:	8.27ms
-	10%	time for request:	11.27ms
-	25%	time for request:	17.45ms
-	50%	time for request:	27.45ms
-	75%	time for request:	40.13ms
-	90%	time for request:	54.45ms
-	95%	time for request:	64.87ms
-	99%	time for request:	87.62ms
-	99.9%	time for request:	115.31ms
+	0.1%	time for request:	1.90ms
+	1%	time for request:	4.26ms
+	5%	time for request:	8.07ms
+	10%	time for request:	11.01ms
+	25%	time for request:	17.34ms
+	50%	time for request:	27.41ms
+	75%	time for request:	40.96ms
+	90%	time for request:	57.42ms
+	95%	time for request:	69.39ms
+	99%	time for request:	92.74ms
+	99.9%	time for request:	118.53ms
 
 Request:
 	Total request body sizes:	3000000
 	Average body size per request:	3.00 Byte
-	Request rate per second:	99885.34 Byte/s (0.10 MByte/s)
+	Request rate per second:	97712.38 Byte/s (0.10 MByte/s)
 
 Response:
 	Total response body sizes:	3000000
 	Average body size per response:	3.00 Byte
-	Response rate per second:	99885.34 Byte/s (0.10 MByte/s)
+	Response rate per second:	97712.38 Byte/s (0.10 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -180,29 +180,29 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	512
 	Total calls:	1000000
-	Total time:	172.02s
-	Requests per second:	5813.37
-	Fastest time for request:	18.92ms
-	Average time per request:	88.05ms
-	Slowest time for request:	379.56ms
+	Total time:	167.77s
+	Requests per second:	5960.41
+	Fastest time for request:	19.94ms
+	Average time per request:	85.87ms
+	Slowest time for request:	316.50ms
 
 Time:
-	0.1%	time for request:	28.33ms
-	1%	time for request:	36.59ms
-	5%	time for request:	45.57ms
-	10%	time for request:	51.24ms
-	25%	time for request:	65.88ms
-	50%	time for request:	88.53ms
-	75%	time for request:	105.11ms
-	90%	time for request:	122.61ms
-	95%	time for request:	133.62ms
-	99%	time for request:	166.44ms
-	99.9%	time for request:	254.37ms
+	0.1%	time for request:	27.88ms
+	1%	time for request:	35.09ms
+	5%	time for request:	43.37ms
+	10%	time for request:	49.18ms
+	25%	time for request:	64.00ms
+	50%	time for request:	85.88ms
+	75%	time for request:	103.31ms
+	90%	time for request:	120.41ms
+	95%	time for request:	131.63ms
+	99%	time for request:	168.50ms
+	99.9%	time for request:	241.22ms
 
 Request:
 	Total request body sizes:	36000000
 	Average body size per request:	36.00 Byte
-	Request rate per second:	209281.22 Byte/s (0.21 MByte/s)
+	Request rate per second:	214574.88 Byte/s (0.21 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -215,29 +215,29 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	1024
 	Total calls:	1000000
-	Total time:	103.69s
-	Requests per second:	9643.77
-	Fastest time for request:	20.00ms
-	Average time per request:	106.13ms
-	Slowest time for request:	475.02ms
+	Total time:	101.76s
+	Requests per second:	9827.13
+	Fastest time for request:	19.25ms
+	Average time per request:	104.17ms
+	Slowest time for request:	534.85ms
 
 Time:
-	0.1%	time for request:	28.44ms
-	1%	time for request:	36.01ms
-	5%	time for request:	46.58ms
-	10%	time for request:	54.22ms
-	25%	time for request:	72.76ms
-	50%	time for request:	97.57ms
-	75%	time for request:	124.12ms
-	90%	time for request:	161.42ms
-	95%	time for request:	211.98ms
-	99%	time for request:	297.15ms
-	99.9%	time for request:	398.05ms
+	0.1%	time for request:	27.54ms
+	1%	time for request:	35.23ms
+	5%	time for request:	44.80ms
+	10%	time for request:	52.01ms
+	25%	time for request:	69.57ms
+	50%	time for request:	94.38ms
+	75%	time for request:	122.31ms
+	90%	time for request:	163.25ms
+	95%	time for request:	209.60ms
+	99%	time for request:	307.84ms
+	99.9%	time for request:	401.95ms
 
 Request:
 	Total request body sizes:	36000000
 	Average body size per request:	36.00 Byte
-	Request rate per second:	347175.74 Byte/s (0.35 MByte/s)
+	Request rate per second:	353776.60 Byte/s (0.35 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -250,29 +250,29 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	1536
 	Total calls:	1000000
-	Total time:	85.31s
-	Requests per second:	11722.62
-	Fastest time for request:	19.50ms
-	Average time per request:	130.97ms
-	Slowest time for request:	612.36ms
+	Total time:	84.28s
+	Requests per second:	11865.04
+	Fastest time for request:	18.09ms
+	Average time per request:	129.39ms
+	Slowest time for request:	677.91ms
 
 Time:
-	0.1%	time for request:	27.60ms
-	1%	time for request:	36.75ms
-	5%	time for request:	49.48ms
-	10%	time for request:	59.38ms
-	25%	time for request:	80.58ms
-	50%	time for request:	111.83ms
-	75%	time for request:	149.24ms
-	90%	time for request:	240.12ms
-	95%	time for request:	308.71ms
-	99%	time for request:	408.42ms
-	99.9%	time for request:	511.51ms
+	0.1%	time for request:	28.11ms
+	1%	time for request:	36.24ms
+	5%	time for request:	47.89ms
+	10%	time for request:	57.04ms
+	25%	time for request:	77.51ms
+	50%	time for request:	107.56ms
+	75%	time for request:	149.30ms
+	90%	time for request:	245.07ms
+	95%	time for request:	312.55ms
+	99%	time for request:	402.38ms
+	99.9%	time for request:	554.76ms
 
 Request:
 	Total request body sizes:	36000000
 	Average body size per request:	36.00 Byte
-	Request rate per second:	422014.38 Byte/s (0.42 MByte/s)
+	Request rate per second:	427141.30 Byte/s (0.43 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
@@ -285,29 +285,29 @@ Summary:
 	Clients:	1
 	Parallel calls per client:	2048
 	Total calls:	1000000
-	Total time:	73.66s
-	Requests per second:	13575.50
-	Fastest time for request:	16.99ms
-	Average time per request:	150.72ms
-	Slowest time for request:	652.18ms
+	Total time:	74.88s
+	Requests per second:	13354.91
+	Fastest time for request:	20.48ms
+	Average time per request:	153.10ms
+	Slowest time for request:	744.96ms
 
 Time:
-	0.1%	time for request:	28.68ms
-	1%	time for request:	39.27ms
-	5%	time for request:	54.02ms
-	10%	time for request:	64.29ms
-	25%	time for request:	88.33ms
-	50%	time for request:	123.89ms
-	75%	time for request:	178.61ms
-	90%	time for request:	297.37ms
-	95%	time for request:	359.36ms
-	99%	time for request:	450.76ms
-	99.9%	time for request:	539.55ms
+	0.1%	time for request:	28.81ms
+	1%	time for request:	37.03ms
+	5%	time for request:	51.87ms
+	10%	time for request:	62.60ms
+	25%	time for request:	86.58ms
+	50%	time for request:	122.11ms
+	75%	time for request:	182.07ms
+	90%	time for request:	307.62ms
+	95%	time for request:	378.25ms
+	99%	time for request:	484.61ms
+	99.9%	time for request:	611.24ms
 
 Request:
 	Total request body sizes:	36000000
 	Average body size per request:	36.00 Byte
-	Request rate per second:	488717.96 Byte/s (0.49 MByte/s)
+	Request rate per second:	480776.65 Byte/s (0.48 MByte/s)
 
 Result:
 	Response ok:	1000000 (100.00%)
